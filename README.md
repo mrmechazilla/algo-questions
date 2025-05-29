@@ -1,1 +1,1 @@
-# interview-prep
+# Algorithm Questions Documentation

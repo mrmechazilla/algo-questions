@@ -1,0 +1,9 @@
+// Dev settings
+{
+    name: 'MyCoolApp',
+    version: 1,
+    features: {
+        darkMode: true,
+        multiLang: true,
+    },
+}
